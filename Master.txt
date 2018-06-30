@@ -1,4 +1,4 @@
 
-<Version 0.02>
-/img/pictures/dropbox.exe https://www.dropbox.com/download?os=win
+<Version 1.01>
+/ 
 <End Version>
